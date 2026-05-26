@@ -20,8 +20,7 @@ This Github organization (and its associated pages) is the central resource for 
 #### [Workshop High performance computing with Python and RS-DAT 19/03/2026, Utrecht](https://www.surf.nl/en/agenda/high-performance-computing-with-python-and-rs-dat)
 Would you like to scale your data analyses in Python to clusters and supercomputers? In this course, you will learn how to do this with the RS-DAT framework using Dask, Jupyter and Pydata tooling.
 
-#### [Open Hackathon High performance computing with Python and RS-DAT 27-29/05
-/2026, Utrecht](https://www.surf.nl/en/agenda/hackathon-high-performance-computing-with-python-and-rs-dat)
+#### [Open Hackathon High performance computing with Python and RS-DAT 27-29/05/2026, Utrecht](https://www.surf.nl/en/agenda/hackathon-high-performance-computing-with-python-and-rs-dat)
 Would you like to scale your data analyses in Python to clusters and supercomputers? During this hackathon, we will support you in adopting the RS-DAT framework and take your Dask and PyData skills to the next level.
 
 ### Inaugural user committee meeting 13/02/2026
