@@ -16,6 +16,15 @@ This Github organization (and its associated pages) is the central resource for 
 
 ## NEWS
 
+### Fall/winter workshop(s)
+We are in the process of finalizing workshop dates for the fall/winter period. Aoouncements coming soon. STAY TUNED!
+
+### HPC-DAT tutorial session at EO council autumn school, Delft 06/11/2026
+We are happy to announce that we will be contributing a tutorial session to the autumn school organized by the EO council on 06/11/2026 in Delft
+
+### Second user committee meeting 10/09/2026
+The second user committee meeting is scheduled for 10/09/2026 in Amsterdam. We look forward to presenting intial progress and results of the project and getting feedback from our broader user community.
+
 ### Dates for the first HPC-DAT workshop and hackathon announced!
 #### [Workshop High performance computing with Python and RS-DAT 19/03/2026, Utrecht](https://www.surf.nl/en/agenda/high-performance-computing-with-python-and-rs-dat)
 Would you like to scale your data analyses in Python to clusters and supercomputers? In this course, you will learn how to do this with the RS-DAT framework using Dask, Jupyter and Pydata tooling.
