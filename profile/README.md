@@ -18,25 +18,35 @@ hackathons, and technical results.
 ## NEWS
 
 <!-- news-sync:start -->
-### Fall and winter workshops
+### [Fall and winter workshops: dates coming soon](https://hpc-dat.github.io/forum/d/6)
 
-We are finalizing workshop dates for the fall and winter period. Announcements are coming soon.
+_Published 7 September 2026_
 
-### HPC-DAT tutorial at the EO Council autumn school, Delft, 6 November 2026
+We are finalizing workshop dates for the fall and winter period. Announcements are coming soon, so watch this space.
 
-HPC-DAT will contribute a tutorial session to the autumn school organized by the EO Council in Delft.
+### [HPC-DAT tutorial at the EO Council autumn school, Delft, 6 November 2026](https://hpc-dat.github.io/forum/d/5)
 
-### Second user committee meeting, Amsterdam, 10 September 2026
+_Published 7 September 2026_
 
-We look forward to presenting the project's initial progress and gathering feedback from our broader user community.
+HPC-DAT will contribute a tutorial session to the autumn school organized by the EO Council in Delft on 6 November 2026.
 
-### [High-performance computing with Python and RS-DAT workshop, Utrecht, 19 March 2026](https://www.surf.nl/en/agenda/high-performance-computing-with-python-and-rs-dat)
+### [Second user committee meeting, Amsterdam, 10 September 2026](https://hpc-dat.github.io/forum/d/4)
+
+_Published 7 September 2026_
+
+The second user committee meeting is scheduled for 10 September 2026 in Amsterdam.
+
+### [Open hackathon: high-performance computing with Python and RS-DAT, Utrecht, 27-29 May 2026](https://hpc-dat.github.io/forum/d/3)
+
+_Published 7 September 2026_
+
+Get support adopting RS-DAT and developing Dask and PyData skills during this open hackathon in Utrecht.
+
+### [High-performance computing with Python and RS-DAT workshop, Utrecht, 19 March 2026](https://hpc-dat.github.io/forum/d/2)
+
+_Published 7 September 2026_
 
 Learn how to scale Python data analysis to clusters and supercomputers with RS-DAT, Dask, Jupyter, and PyData tooling.
-
-### [Open hackathon: high-performance computing with Python and RS-DAT, Utrecht, 27-29 May 2026](https://www.surf.nl/en/agenda/hackathon-high-performance-computing-with-python-and-rs-dat)
-
-Get support adopting RS-DAT and developing Dask and PyData skills.
 <!-- news-sync:end -->
 
 [View all news and join the discussion](https://hpc-dat.github.io/forum/)
