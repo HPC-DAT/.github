@@ -1,0 +1,45 @@
+name: Sync forum news
+
+on:
+  schedule:
+    - cron: '22,52 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-news
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out organization profile
+        uses: actions/checkout@v4
+
+      - name: Check out forum snapshot
+        uses: actions/checkout@v4
+        with:
+          repository: HPC-DAT/forum
+          ref: data
+          path: _forum-data
+          persist-credentials: false
+
+      - name: Test news generator
+        run: node --test .github/scripts/sync-news.test.mjs
+
+      - name: Generate profile news
+        run: node .github/scripts/sync-news.mjs _forum-data/posts/index.json profile/README.md
+
+      - name: Commit changed news
+        run: |
+          if git diff --quiet -- profile/README.md; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/README.md
+          git commit -m "chore: sync forum news"
+          git push
