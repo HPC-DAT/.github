@@ -49,4 +49,4 @@ _Published 7 September 2026_
 Learn how to scale Python data analysis to clusters and supercomputers with RS-DAT, Dask, Jupyter, and PyData tooling.
 <!-- news-sync:end -->
 
-[View all news and join the discussion](https://hpc-dat.github.io/forum/)
+[View all news and join the discussion](https://hpc-dat.github.io/forum/t/news)

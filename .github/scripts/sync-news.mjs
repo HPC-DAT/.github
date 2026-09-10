@@ -27,7 +27,7 @@ export function escapeMarkdown(value) {
 
 export function renderNews(discussions) {
 	const news = discussions
-		.filter((item) => ['news', 'announcements'].includes(item.category?.slug))
+		.filter((item) => item.category?.slug === 'news')
 		.sort((a, b) => b.createdAt.localeCompare(a.createdAt))
 		.slice(0, 5);
 	if (news.length === 0) return '_News will be published here soon._';

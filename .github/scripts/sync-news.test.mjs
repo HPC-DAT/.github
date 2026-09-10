@@ -19,8 +19,8 @@ test('renders forum-linked news and filters unrelated topics', () => {
 	assert.doesNotMatch(output, /Details follow/);
 });
 
-test('supports the announcement slug during category migration and an empty state', () => {
-	assert.match(renderNews([item({ category: { slug: 'announcements' } })]), /forum\/d\/8/);
+test('renders an empty state without news', () => {
+	assert.match(renderNews([item({ category: { slug: 'general' } })]), /published here soon/);
 	assert.match(renderNews([]), /published here soon/);
 });
 
