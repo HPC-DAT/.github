@@ -18,6 +18,12 @@ hackathons, and technical results.
 ## NEWS
 
 <!-- news-sync:start -->
+### [HPC-DAT Bring-your-own-problem hackathon](https://hpc-dat.github.io/forum/d/8)
+
+_Published 9 October 2026_
+
+Bring your problem, explore solutions, and move your workflow forward.
+
 ### [Fall and winter workshops: dates coming soon](https://hpc-dat.github.io/forum/d/6)
 
 _Published 7 September 2026_
@@ -41,12 +47,6 @@ The second user committee meeting is scheduled for 10 September 2026 in Amsterda
 _Published 7 September 2026_
 
 Get support adopting RS-DAT and developing Dask and PyData skills during this open hackathon in Utrecht.
-
-### [High-performance computing with Python and RS-DAT workshop, Utrecht, 19 March 2026](https://hpc-dat.github.io/forum/d/2)
-
-_Published 7 September 2026_
-
-Learn how to scale Python data analysis to clusters and supercomputers with RS-DAT, Dask, Jupyter, and PyData tooling.
 <!-- news-sync:end -->
 
 [View all news and join the discussion](https://hpc-dat.github.io/forum/t/news)
